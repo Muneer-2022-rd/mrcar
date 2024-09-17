@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "503744796100",
+    "project_id": "cars-equipments-shop",
+    "storage_bucket": "cars-equipments-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503744796100:android:b97ae2c8cb05b267930091",
+        "android_client_info": {
+          "package_name": "com.example.cars_equipments_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503744796100-pt3eq5csa5b4241rsqedf7ancmissl0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cars_equipments_shop",
+            "certificate_hash": "c77910100ff3f9bde3fc3e00468eac9ede4113d3"
+          }
+        },
+        {
+          "client_id": "503744796100-s058oaa3tajmh9i7j7nf1rbdj9cgm3ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKrPsG3u6nNvDwFmB0GdXPiz36iQPXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503744796100-s058oaa3tajmh9i7j7nf1rbdj9cgm3ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503744796100-e37k1m7if991lskj4vdmv94fts884anm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carsEquipmentsShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

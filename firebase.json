@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "cars-equipments-shop",
+                    "appId": "1:503744796100:android:b97ae2c8cb05b267930091",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "cars-equipments-shop",
+                    "configurations": {
+                        "android": "1:503744796100:android:b97ae2c8cb05b267930091",
+                        "ios": "1:503744796100:ios:f2d1ad99cedeb67a930091",
+                        "macos": "1:503744796100:ios:f2d1ad99cedeb67a930091",
+                        "web": "1:503744796100:web:5c1f8978bf4aeffa930091",
+                        "windows": "1:503744796100:web:d7eb7d11010e3d6d930091"
+                    }
+                }
+            }
+        }
+    }
+}
